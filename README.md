@@ -62,12 +62,12 @@ Transformed raw data into actionable insights
 ## Project Structure
 
 1. Extract
-Imported multiple .csv files into Excel
-Data sources included:
-Customer
-Market
-Product
-Monthly Sales
+-Imported multiple .csv files into Excel
+-Data sources included:
+-Customer
+-Market
+-Product
+-Monthly Sales
 
 3. Transform (Power Query)
 Cleaned and prepared data:
