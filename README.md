@@ -7,6 +7,8 @@ This project uses advanced Excel tools to analyze the Sales and Profit & Loss (P
 The final report provides insights into:
 
  -Customer Performance
+ 
+ -Customer Net Sales Performance https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Net_Sales_Performance-P%26L.pdf
 
  -Market Performance vs Target
 
