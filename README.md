@@ -1,4 +1,4 @@
-## AtliQ Hardware – Sales & Finance Analytics Project
+## **AtliQ Hardware – Sales & Finance Analytics Project**
 
 ## Project Overview
 
@@ -6,23 +6,23 @@ This project uses advanced Excel tools to analyze the Sales and Profit & Loss (P
 
 The final report provides insights into:
 
-Customer Performance
+ -Customer Performance
 
-Market Performance vs Target
+ -Market Performance vs Target
 
-Division-Level Performance
+ -Division-Level Performance
 
-Gross Margin % by Quarters
+ -Gross Margin % by Quarters
 
-New Products introduced in 2021
+ -New Products introduced in 2021
 
-Profit & Loss by Month
+ -Profit & Loss by Month
 
-Profit & Loss by Market
+ -Profit & Loss by Market
 
-Top 5 Countries by Sales (2021)
+ -Top 5 Countries by Sales (2021)
 
-Top 10 Products
+ -Top 10 Products
 
 ## Tools Used
 
