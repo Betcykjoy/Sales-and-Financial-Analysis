@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses advanced Excel tools to analyze the Sales and Profit & Loss (P&L) performance of AtliQ Hardware organization.
+This project uses advanced Excel tools to analyze the Sales and Profit & Loss (P&L) performance of AtliQ Hardware organization during the years 2019-2021.
 
 The final report provides insights into:
 
