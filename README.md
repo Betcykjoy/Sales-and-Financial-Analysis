@@ -182,7 +182,7 @@ Analyzed:
 
 &nbsp; &nbsp;2021: 36.43%
 
-&nbsp; &nbsp;--Indicates margin compression and rising costs
+&nbsp; &nbsp;--Indicates margin compression and rising costs: <br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/P%26L_%20by_Month.pdf
 
 **Key Learnings**
 
