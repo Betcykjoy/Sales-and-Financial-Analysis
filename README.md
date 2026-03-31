@@ -32,184 +32,178 @@ The final report provides insights into:
 
 &nbsp; &nbsp;-Excel
 
-&nbsp-Power Query (ETL)
+&nbsp; &nbsp;-Power Query (ETL)
 
--Power Pivot (Data Modeling & DAX)
-
--Pivot Tables
-
--Familiarity of Excel Functions:
-
--VLOOKUP
-
--HLOOKUP
-
--INDEX & MATCH
+&nbsp; &nbsp;-Power Pivot (Data Modeling & DAX)
 
 ## Techniques Applied
 
 **Data Transformation (Power Query)**
 
--Performed data cleaning and transformation
+&nbsp; &nbsp;-Performed data cleaning and transformation
 
--Merged multiple datasets
+&nbsp; &nbsp;-Merged multiple datasets
 
--Handled missing values and errors
+&nbsp; &nbsp;-Handled missing values and errors
 
--Ensured correct data types
+&nbsp; &nbsp;-Ensured correct data types
 
--Validated column quality and distribution
+&nbsp; &nbsp;-Validated column quality and distribution
 
 **Business Math & Statistics**
 
--Applied key mathematical and statistical concepts
+&nbsp; &nbsp;-Applied key mathematical and statistical concepts
 
--Analyzed trends and performance metrics
+&nbsp; &nbsp;-Analyzed trends and performance metrics
 
--Derived actionable insights from raw data
+&nbsp; &nbsp;-Derived actionable insights from raw data
 
-**Pivot Tables & Power Pivot**
+**Power Pivot**
 
--Built data models using Power Pivot
+&nbsp; &nbsp;-Built data models using Power Pivot
 
--Created relationships between tables
+&nbsp; &nbsp;-Created relationships between tables
 
--Used DAX for calculated columns and measures
+&nbsp; &nbsp;-Used DAX for calculated columns and measures
 
--Transformed raw data into actionable insights
+&nbsp; &nbsp;-Transformed raw data into actionable insights
 
 ## Project Structure
 
-1. Extract
+**1. Extract**
    
--Imported multiple .csv files into Excel
+Imported multiple .csv files into Excel
 
-Data sources included:
+&nbsp; &nbsp;Data sources included:
 
--Customer
+&nbsp; &nbsp;-Customer
 
--Market
+&nbsp; &nbsp;-Market
 
--Product
+&nbsp; &nbsp;-Product
 
--Monthly Sales
+&nbsp; &nbsp;-Monthly Sales
 
-3. Transform (Power Query)
+**2. Transform (Power Query)**
    
 Cleaned and prepared data:
 
--Removed duplicates
+&nbsp; &nbsp;-Removed duplicates
 
--Handled null values
+&nbsp; &nbsp;-Handled null values
 
--Corrected data types
+&nbsp; &nbsp;-Corrected data types
 
--Fixed spelling inconsistencies
+&nbsp; &nbsp;-Fixed spelling inconsistencies
 
 Ensured:
 
--Primary keys are unique and non-null
+&nbsp; &nbsp;-Primary keys are unique and non-null
 
--No errors (#N/A, null values) in columns
+&nbsp; &nbsp;-No errors (#N/A, null values) in columns
 
--Data consistency across all tables
+&nbsp; &nbsp;-Data consistency across all tables
 
--Merged queries and validated:
+&nbsp; &nbsp;-Merged queries and validated:
 
--Column distribution
+&nbsp; &nbsp;-Column distribution
 
--Column quality
+&nbsp; &nbsp;-Column quality
 
-Key Takeaway:
+**Key Takeaway**: Primary keys must always contain unique and distinct values
 
-Primary keys must always contain unique and distinct values
-
-3. Load
+**3. Load**
    
--Loaded transformed data into Excel Data Model
+&nbsp; &nbsp;-Loaded transformed data into Excel Data Model
 
--Connected tables using Star Schema design
+&nbsp; &nbsp;-Connected tables using Star Schema design
 
--Created a Date Table using Power Query
+&nbsp; &nbsp;-Created a Date Table using Power Query
 
-4.Data Modeling
+**4.Data Modeling**
 
--Built relationships between fact and dimension tables
+&nbsp; &nbsp;-Built relationships between fact and dimension tables
 
--Used RELATED function to fetch data across tables
+&nbsp; &nbsp;-Used RELATED function to fetch data across tables
 
--Designed a scalable and efficient data model
+&nbsp; &nbsp;-Designed a scalable and efficient data model
 
-5.Analysis
+**5.Analysis**
 
-📊 Sales Analysis
+**📊 Sales Analysis**
 
--Customer performance (2019–2021)
+&nbsp; &nbsp;-Customer performance (2019–2021)
 
--Comparison between 2020 and 2021
+&nbsp; &nbsp;-Comparison between 2020 and 2021
 
--Market vs target performance
+&nbsp; &nbsp;-Market vs target performance
 
--Product-level insights
+&nbsp; &nbsp;-Product-level insights
 
-💰 Financial Analysis (P&L)
+**💰 Financial Analysis (Profi & Loss)**
 
 Calculated:
 
--COGS (Cost of Goods Sold)
--Gross Margin (GM)
--Gross Margin %
--Analyzed:
--Yearly trends
--Quarterly performance
--Monthly performance
+&nbsp; &nbsp;-COGS (Cost of Goods Sold)
+
+&nbsp; &nbsp;-Gross Margin (GM)
+
+&nbsp; &nbsp;-Gross Margin %
+
+Analyzed:
+
+&nbsp; &nbsp;-Yearly trends
+
+&nbsp; &nbsp;-Quarterly performance
+
+&nbsp; &nbsp;-Monthly performance
 
 ## Key insights
 
-Sales Analysis:
+**Sales Analysis:**
 
--Net Sales grew from $87.5M → $598.9M (~304%)
+&nbsp; &nbsp;-Net Sales grew from $87.5M → $598.9M (~304%)
 
--Strong contribution from key customers and regions
+&nbsp; &nbsp;-Strong contribution from key customers and regions
 
--Identified underperforming markets vs targets (~9.2% gap)
+&nbsp; &nbsp;-Identified underperforming markets vs targets (~9.2% gap)
 
-Financial Analysis:
+**Financial Analysis:**
 
--COGS increased faster than revenue (309% vs 304%)
+&nbsp; &nbsp;-COGS increased faster than revenue (309% vs 304%)
 
--Gross Margin increased in value but:
+&nbsp; &nbsp;-Gross Margin increased in value but:
 
-🔻 Margin % declined
+**🔻 Margin % declined**
 
-2019: 41.43%
+&nbsp; &nbsp;2019: 41.43%
 
-2020: 37.28%
+&nbsp; &nbsp;2020: 37.28%
 
-2021: 36.43%
+&nbsp; &nbsp;2021: 36.43%
 
---Indicates margin compression and rising costs
+&nbsp; &nbsp;--Indicates margin compression and rising costs
 
 **Key Learnings**
 
--Importance of data cleaning before analysis
+&nbsp; &nbsp;-Importance of data cleaning before analysis
 
--Strong foundation in data modeling (Star Schema)
+&nbsp; &nbsp;-Strong foundation in data modeling (Star Schema)
 
--Understanding the connection between sales and profitability
+&nbsp; &nbsp;-Understanding the connection between sales and profitability
 
--Applying business thinking alongside technical skills
+&nbsp; &nbsp;-Applying business thinking alongside technical skills
 
- Conclusion
+** Conclusion**
 
 This project demonstrates how to transform raw data into meaningful insights using Excel tools.
 
 It highlights the importance of:
 
--Structured data preparation
+&nbsp; &nbsp;-Structured data preparation
 
--Strong data modeling
+&nbsp; &nbsp;-Strong data modeling
 
--Business-focused analysis to support data-driven decision-making.
+&nbsp; &nbsp;-Business-focused analysis to support data-driven decision-making.
 
 **Author: Betcy Karukamalil Joy**
