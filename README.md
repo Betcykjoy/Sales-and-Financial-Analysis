@@ -6,31 +6,31 @@ This project uses advanced Excel tools to analyze the Sales and Profit & Loss (P
 
 The final report provides insights into:
 
- -Customer Performance<br><br> : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Performance_Report.pdf
+ -Customer Performance :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Performance_Report.pdf
  
- -Customer Net Sales Performance : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Net_Sales_Performance-P%26L.pdf
+ -Customer Net Sales Performance :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Net_Sales_Performance-P%26L.pdf
 
- -Market Performance vs Target : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Market_Performance_vs_Target.pdf
+ -Market Performance vs Target :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Market_Performance_vs_Target.pdf
 
- -Division-Level Performance : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Division%20Report.pdf
+ -Division-Level Performance :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Division%20Report.pdf
 
- -Gross Margin % by Quarters : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/GM_Percentage_by_Quarters_Subzone.pdf
+ -Gross Margin % by Quarters :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/GM_Percentage_by_Quarters_Subzone.pdf
 
- -New Products introduced in 2021 : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/New_Products_Introduced_2021.pdf
+ -New Products introduced in 2021 :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/New_Products_Introduced_2021.pdf
 
- -Profit & Loss by Month : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/P%26L_%20by_Month.pdf
+ -Profit & Loss by Month :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/P%26L_%20by_Month.pdf
 
- -Profit & Loss by Market : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/P%26L_for_Markets.pdf
+ -Profit & Loss by Market :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/P%26L_for_Markets.pdf
 
- -Top 5 Countries by Sales (2021) : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Top_Five_Countries_2021_Sales.pdf
+ -Top 5 Countries by Sales (2021) :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Top_Five_Countries_2021_Sales.pdf
 
- -Top 10 Products : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Top_Ten_Products.pdf
+ -Top 10 Products :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Top_Ten_Products.pdf
 
- -Top 5 and Bottom 5 Products (2021) : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Top_and%20_BottomFive.pdf
+ -Top 5 and Bottom 5 Products (2021) :<br><br> https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Top_and%20_BottomFive.pdf
 
 ## Tools Used
 
-&nbsp;-Excel
+&nbsp; &nbsp;-Excel
 
 &nbsp-Power Query (ETL)
 
