@@ -30,7 +30,7 @@ The final report provides insights into:
 
 ## Tools Used
 
-&nbsp-Excel
+&nbsp;-Excel
 
 &nbsp-Power Query (ETL)
 
