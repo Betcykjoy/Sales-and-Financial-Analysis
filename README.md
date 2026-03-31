@@ -198,7 +198,7 @@ https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Market_Perfo
 
 &nbsp; &nbsp;-Applying business thinking alongside technical skills
 
-** Conclusion**
+**Conclusion**
 
 This project demonstrates how to transform raw data into meaningful insights using Excel tools.
 
