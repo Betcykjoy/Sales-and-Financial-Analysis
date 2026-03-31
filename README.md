@@ -162,11 +162,15 @@ Analyzed:
 
 **Sales Analysis:**
 
-&nbsp; &nbsp;-Net Sales grew from $87.5M → $598.9M (~304%)
+&nbsp; &nbsp;-Net Sales grew from $87.5M → $598.9M (~304%) :
+
+https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Net_Sales_Performance-P%26L.pdf
 
 &nbsp; &nbsp;-Strong contribution from key customers and regions
 
-&nbsp; &nbsp;-Identified underperforming markets vs targets (~9.2% gap)
+&nbsp; &nbsp;-Identified underperforming markets vs targets (~9.2% gap) :
+
+https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Market_Performance_vs_Target.pdf
 
 **Financial Analysis:**
 
