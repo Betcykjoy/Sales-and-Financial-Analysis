@@ -6,7 +6,7 @@ This project uses advanced Excel tools to analyze the Sales and Profit & Loss (P
 
 The final report provides insights into:
 
- -Customer Performance : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Performance_Report.pdf
+ -Customer Performance<br><br> : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Performance_Report.pdf
  
  -Customer Net Sales Performance : https://github.com/Betcykjoy/Sales-and-Financial-Analysis/blob/main/Customer_Net_Sales_Performance-P%26L.pdf
 
@@ -30,9 +30,9 @@ The final report provides insights into:
 
 ## Tools Used
 
--Excel
+&nbsp-Excel
 
--Power Query (ETL)
+&nbsp-Power Query (ETL)
 
 -Power Pivot (Data Modeling & DAX)
 
